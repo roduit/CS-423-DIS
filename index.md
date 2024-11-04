@@ -2,8 +2,7 @@
 This course introduces the key concepts and algorithms from the areas of information retrieval, data mining and knowledge bases, which constitute the foundations of today's web-based distributed information systems. 
 
 ### Final Exam:
-The final exam will take place on **30 Jan. 2025**.
-<!--from 15:00 to 18:00** in rooms **CE 1515** and **CE 6**. -->
+The final exam will take place on **30 Jan. 2025** from 15h15 to 18h15 in [PO01](https://plan.epfl.ch/?room==PO%2001).
 
 
 <!-- ### Midterm:  -->
@@ -40,8 +39,8 @@ Moodle | Quizzes, Final Exam [[link](https://moodle.epfl.ch/course/view.php?id=4
 | 3    | 26/09     |                             | Embedding techniques  | [[slides][3p], [video][3v]] |
 | 4    | 03/10     |                             | Embedding techniques | [[slides][4p], [video][4v]] |
 | 5    | 10/10     |                             | Recommender Systems  | [[slides][5p], [video][5v]] |
-| 6    | 17/10     |                             | Document Classification | [[slides][6p]] |
-| 7    | 31/10     |                             | Link Ranking | |
+| 6    | 17/10     |                             | Document Classification | [[slides][6p], [video][6v]] |
+| 7    | 31/10     |                             | Link Ranking | [[slides][7p]] |
 | 8    | 7/11      | Information Extraction      | Graph Mining | |
 | 9    | 14/11     |                             | Named Entity Recognition | |
 | 10   | 21/11     |                             | Knowledge Representation | |
@@ -139,6 +138,6 @@ Please contact us for any organisational questions or questions related to the c
 [3v]:https://mediaspace.epfl.ch/media/DIS+-+Week+3/0_5syk20l1/29734
 [4v]:https://mediaspace.epfl.ch/media/DIS+-+Week+4/0_lz19pk98/29734
 [5v]:https://mediaspace.epfl.ch/media/DIS+-+Week+5/0_cjaforc0/29734
-
+[6v]:https://mediaspace.epfl.ch/media/DIS+-+Week+6/0_htjlzpdc/29734
 
 
