@@ -5,6 +5,7 @@ import operator
 import networkx as nx
 import matplotlib.pylab as plt
 import matplotlib.colors as mcolors
+from packaging import version
 
 def ex1_draw(G, measures):
     pos = nx.spring_layout(G,scale=3)
@@ -49,7 +50,7 @@ def ex1_load_graph():
 
     edge_list_df.drop(['group_source','group_target','source','target'],axis=1,inplace=True)
 
-    if float(nx.__version__)<2:
+    if version.parse(nx.__version__) < version.parse("2.0.0"):
       return nx.from_pandas_dataframe(edge_list_df,'name_source','name_target')
     else:
       return nx.from_pandas_edgelist(edge_list_df, 'name_source', 'name_target')
